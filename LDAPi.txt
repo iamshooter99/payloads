@@ -44,3 +44,4 @@ x' or name()='username' or 'x'='y
 admin*
 admin*)((|userpassword=*)
 *)(uid=*))(|(uid=*
+(&(uid=*)(uid=*))(|(uid=*)
